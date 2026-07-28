@@ -9,7 +9,7 @@
 
 #
 
-<p align="center">Formada de Análise e Desenvolvimento de Sistemas com grande interesse em cibersegurança e desenvolvimento em Java.
+<p align="center">Formada em Análise e Desenvolvimento de Sistemas com grande interesse em cibersegurança e desenvolvimento em Java.
 Estou em constante aprendizado, buscando novos desafios e explorando a tecnologia como ferramenta para criar soluções criativas e funcionais. 
 Tenho paixão por aprender e aplicar esse conhecimento na prática
   
